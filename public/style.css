@@ -1,0 +1,143 @@
+/* Change this breakpoint if you change the breakpoint of the navbar */
+
+@media (min-width: 992px) {
+  .animate {
+    animation-duration: 0.3s;
+    -webkit-animation-duration: 0.3s;
+    animation-fill-mode: both;
+    -webkit-animation-fill-mode: both;
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateY(1rem);
+    opacity: 0;
+  }
+  100% {
+    transform:translateY(0rem);
+    opacity: 1;
+  }
+  0% {
+    transform: translateY(1rem);
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes slideIn {
+  0% {
+    -webkit-transform: transform;
+    -webkit-opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    -webkit-opacity: 1;
+  }
+  0% {
+    -webkit-transform: translateY(1rem);
+    -webkit-opacity: 0;
+  }
+}
+
+.slideIn {
+  -webkit-animation-name: slideIn;
+  animation-name: slideIn;
+}
+
+/* Other styles for the page not related to the animated dropdown */
+
+body {
+  background: #007bff;
+  background: linear-gradient(270deg, #6199c6, #9e64e0, #d9c766, #fba18c, #6bd186, #625cb5, #5eb89d, #b55992);
+
+}
+
+body {
+linear-gradient: (270deg, #6199c6, #9e64e0, #d9c766, #fba18c, #6bd186, #625cb5, #5eb89d, #b55992);
+background-size: 1600% 1600%;
+animation: AnimationName 59s ease infinite;
+
+}
+
+@keyframes AnimationName {
+    0%{background-position:50% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:50% 50%}
+}
+
+
+.footerpadding { 
+  padding: 20px;
+
+}
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Nunito' !important;
+}
+p, div {
+    font-family: 'Open Sans' !important;
+}
+
+.subtitleh1 {
+  padding: 18px;
+
+}
+
+.btncustom {
+  padding: 10px;
+
+}
+
+.h1fixed {
+    padding-top: 80px;
+
+}
+
+.avatar {
+  animation-duration: 3s;
+  animation-delay: 1s;
+}
+
+.icon1 {
+  animation-duration: 1s;
+  animation-delay: 4s;
+}
+
+.icon2 {
+  animation-duration: 1s;
+  animation-delay: 5s;
+}
+
+.icon3 {
+  animation-duration: 1s;
+  animation-delay: 6s;
+}
+
+.icon4 {
+  animation-duration: 1s;
+  animation-delay: 7s;
+}
+
+.icon5 {
+  animation-duration: 1s;
+  animation-delay: 8s;
+}
+
+.icon6 {
+  animation-duration: 1s;
+  animation-delay: 9s;
+}
+
+
+.icon7 {
+  animation-duration: 1s;
+  animation-delay: 10s;
+}
+
+.navanimations {
+  animation-duration: 2s;
+}
+
+.footer {
+    opacity: 0.5;
+}
