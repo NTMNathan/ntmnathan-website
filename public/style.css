@@ -141,3 +141,7 @@ p, div {
 .footer {
     opacity: 0.5;
 }
+
+.btn-primary {
+  color: #fffff
+}
