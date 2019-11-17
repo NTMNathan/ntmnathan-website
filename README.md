@@ -9,9 +9,7 @@ The aim of this website is to use minimal code as possible and to create some so
 
 If you do plan on using this to build your own Portfolio Website or something else. Please do credit me at least. By just adding this line of Code anywhere in the html/css files:
 
-<!-- NTM Nathan Portfolio Website - Created by NTMNathan
-
-Copyright © 2012-2019 NTM Nathan. All Rights Reserved-->
+"NTM Nathan Portfolio Website - Created by NTMNathan"
 
 You can see a live version of the Website here:
 
