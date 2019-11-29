@@ -15,3 +15,4 @@ document.getElementById('project6').setAttribute('draggable', false);
 document.getElementById('project7').setAttribute('draggable', false);
 document.getElementById('project8').setAttribute('draggable', false);
 document.getElementById('project9').setAttribute('draggable', false);
+document.getElementById('project10').setAttribute('draggable', false);
