@@ -1,0 +1,60 @@
+ntmnathan
+Nathan Armstrong
+Developer, Lover of Travelling and Tennis!
+NSW, Australia
+==================================================================
+https://keybase.io/ntmnathan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.ntmnathan.glitch.me
+  * I am ntmnathan (https://keybase.io/ntmnathan) on keybase.
+  * I have a public key ASAzN7sQMkgGO78IV_hvytEcs6j4HYNWfgN-TvqMKKJt4Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203337bb103248063bbf0857f86fcad11cb3a8f81d83567e037e4efa8c28a26de10a",
+      "host": "keybase.io",
+      "kid": "01203337bb103248063bbf0857f86fcad11cb3a8f81d83567e037e4efa8c28a26de10a",
+      "uid": "854eae58989d2fbeb864c538cc3f6d19",
+      "username": "ntmnathan"
+    },
+    "merkle_root": {
+      "ctime": 1575022663,
+      "hash": "4eb011856447127938f5172fa480d4160231f0b80ef918b230526e77f52f5e5d4206a187ee17f279c755b93ed3b02024974cae340598b0fb04b75a8fa58c20b4",
+      "hash_meta": "1339ba7dfff8bbb004b306c496a3015fadd875452d93e740e1c4866bc63aba18",
+      "seqno": 11290531
+    },
+    "service": {
+      "entropy": "kRALB1w7VbMWLPaYXYmmCyec",
+      "hostname": "www.ntmnathan.glitch.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1575022686,
+  "expire_in": 504576000,
+  "prev": "80f094b0a59f699e47441918ea2f931342368c95c893c4d52609ddd9cee6737c",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMze7EDJIBju/CFf4b8rRHLOo+B2DVn4Dfk76jCiibeEKp3BheWxvYWTESpcCBsQggPCUsKWfaZ5HRBkY6i+TE0I2jJXIk8TVJgnd2c7mc3zEIItQx9n8YBnk7eC1fPA7my9cZB/5KXvpuDCL1pCEoQh4AgHCo3NpZ8RAUunSdGmXhlWmDDro9FCUC4tmI4bmLKSu4/uWNlFfl7vlSA6bI4xV4GHZaS4uSpr/mn8M/K81FuXhHwh41tQKBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC9iJVAPdobXmQnjsC3BMW0SS+qCnxjs5qSQdS6Kyt4ko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ntmnathan
+
+==================================================================
